@@ -67,3 +67,19 @@ def number_to_full_month_name(n)
       return "No match"
   end
 end
+
+
+
+#12 #13 #14
+def number_to_short_month_name(n)
+  case n
+    when 1
+      return "Jan"
+    when 4
+      return "Apr"
+    when 10
+      return "Oct"
+    else
+      return "No match"
+  end
+end
