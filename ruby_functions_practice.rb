@@ -23,3 +23,10 @@ end
 def multiply(n1, n2)
   return n1 * n2
 end
+
+
+
+#5
+def divide(n1, n2)
+  return n1 / n2
+end
