@@ -91,3 +91,10 @@ end
 def volume_of_cube(edge)
   return edge**3
 end
+
+
+
+#16
+def volume_of_sphere(radius)
+  return (4/3) * Math::PI * radius ** 3
+end
