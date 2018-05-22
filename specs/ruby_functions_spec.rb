@@ -19,7 +19,6 @@ class Functions_Practice < MiniTest::Test
   end
 
   def test_multiply()
-    skip
     multiply_result = multiply( 4, 2 )
     assert_equal( 8, multiply_result )
   end

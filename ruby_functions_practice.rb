@@ -16,3 +16,10 @@ end
 def subtract(n1, n2)
   return n1 - n2
 end
+
+
+
+#4
+def multiply(n1, n2)
+  return n1 * n2
+end
