@@ -83,3 +83,11 @@ def number_to_short_month_name(n)
       return "No match"
   end
 end
+
+
+
+#Further
+#15
+def volume_of_cube(edge)
+  return edge**3
+end
