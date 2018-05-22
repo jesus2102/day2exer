@@ -44,3 +44,10 @@ end
 def join_string(string_1, string_2)
   return string_1 + string_2
 end
+
+
+
+#8
+def add_string_as_number( n1, n2)
+  return n1.to_i() + n2.to_i()
+end
