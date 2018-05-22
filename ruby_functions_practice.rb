@@ -51,3 +51,19 @@ end
 def add_string_as_number( n1, n2)
   return n1.to_i() + n2.to_i()
 end
+
+
+
+#9 #10 #11
+def number_to_full_month_name(n)
+  case n
+    when 1
+      return "January"
+    when 3
+      return "March"
+    when 9
+      return "September"
+    else
+      return "No match"
+  end
+end
