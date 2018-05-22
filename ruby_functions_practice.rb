@@ -1,6 +1,11 @@
 #1
-def return_10(number)
-  return number
+def return_10()
+  return 10
 end
 
-p return_10(10)
+
+
+#2
+def add(n1, n2)
+  return n1 + n2
+end
