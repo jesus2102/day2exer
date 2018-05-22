@@ -30,3 +30,10 @@ end
 def divide(n1, n2)
   return n1 / n2
 end
+
+
+
+#6
+def length_of_string(test_string)
+  return test_string.length()
+end
