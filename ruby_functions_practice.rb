@@ -9,3 +9,10 @@ end
 def add(n1, n2)
   return n1 + n2
 end
+
+
+
+#3
+def subtract(n1, n2)
+  return n1 - n2
+end
